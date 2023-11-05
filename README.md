@@ -1,5 +1,5 @@
 # Active-Directory-Home-Lab-VirtualBox
-<h1>JWipe - Disk Sanitization</h1>
+
 
  ### [YouTube Reference](https://www.youtube.com/watch?v=MHsI8hJmggI)
 
@@ -21,33 +21,38 @@ Created a simple home lab with a domain controller and a client. Established a p
 
 <h2>Program walk-through:</h2>
 
+
 <p align="center">
-The Initial Plan: <br/>
-<img src=""[C:\Users\justi\Desktop\Home Lab\Home Lab I - PLAN.png](https://imgur.com/jOAVydY)"" height="80%" width="80%" "/>
+Initial Plan: <br/>
+<img src="https://i.imgur.com/jOAVydY.png" height="80%" width="80%" alt="HomeLab Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting of Scope:  <br/>
+<img src="https://i.imgur.com/Oxw1axR.png" height="80%" width="80%" alt="HomeLab Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Utilizing PowerShell code to create 1K users: <br/>
+<img src="https://i.imgur.com/0JMWyUH.png" height="80%" width="80%" alt="HomeLab Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creation of 1K Users:  <br/>
+<img src="https://i.imgur.com/B9RRcUl.png" height="80%" width="80%" alt="HomeLab Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internal Network:  <br/>
+<img src="https://i.imgur.com/SPCT3jh.png" height="80%" width="80%" alt="HomeLab Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internet:  <br/>
+<img src="https://i.imgur.com/WHcnWU9.png" height="80%" width="80%" alt="HomeLab Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Added Client Computer:  <br/>
+<img src="https://i.imgur.com/flbIXGC.png" height="80%" width="80%" alt="HomeLab Steps"/>
+</p>
+
+Alternate User Log In:  <br/>
+<img src="https://i.imgur.com/MshbNqm.png" height="80%" width="80%" alt="HomeLab Steps"/>
 </p>
 
 <!--
